@@ -6,7 +6,7 @@ time — from an ancient Earth in balance, through the age of extraction, to a p
 carbon-credit marketplace and the orbital-debris crisis above us — ending on a call to
 **Restore. Reclaim. Renew.**
 
-🌍 **Live:** _(Vercel URL added after first deploy)_
+🌍 **Live:** https://enviroplan-deep-time-to-deep-space.vercel.app
 
 ---
 
